@@ -1,6 +1,7 @@
 # My Portfolio
 
 ## About Me
+Hi! I am Medha Bhat!
 A poet by passion, a philosopher at heart, and an engineer by training, now blending creativity and analytics as a Business Analytics grad student with a background in Data Science Engineering.
 [LinkedIn](https://www.linkedin.com/in/medha-bhat-45ba80260/)
 
